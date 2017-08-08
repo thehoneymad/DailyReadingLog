@@ -1,3 +1,3 @@
-# My Awesome Book
+# My Tech Reading Logs
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is a gitbook of my every day tech reading log from the web. Trying to keep things in a single place so I don't forget my train of thoughts and goals

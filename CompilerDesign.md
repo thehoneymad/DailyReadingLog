@@ -12,7 +12,7 @@ Goals:
 * [Compilers](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/lectures/00/Slides00.pdf) [x]
 * [Lexical Analysis](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/lectures/01/Slides01.pdf) [x]
 * [Syntax Analysis](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/lectures/02/Slides02.pdf) [x]
-* [Top Down Parsing](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/lectures/03/Slides03.pdf)
+* [Top Down Parsing](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/lectures/03/Slides03.pdf) [-]
 * [Top Down Parsing 2](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/lectures/04/Slides04A.pdf)
 
 
@@ -29,7 +29,6 @@ LL1 specific resource
 Other resources
 
 * [An Overview of Lexing and Parsing](http://savage.net.au/Ron/html/graphviz2.marpa/Lexing.and.Parsing.Overview.html)
-
 * [Writer a Lexer and Parser in Go - Part 1](http://adampresley.github.io/2015/04/12/writing-a-lexer-and-parser-in-go-part-1.html)
 * [Writer a Lexer and Parser in Go - Part 2](http://adampresley.github.io/2015/05/12/writing-a-lexer-and-parser-in-go-part-2.html)
 * [Writer a Lexer and Parser in Go - Part 3](http://adampresley.github.io/2015/06/01/writing-a-lexer-and-parser-in-go-part-3.html)

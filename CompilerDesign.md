@@ -6,8 +6,6 @@ Goals:
 - Understand the graphql lexer parser for .net properly
 - Write a simple LL parser to reinforce fp and scala knowledge. May be a simple preprocesor for markdown or anything. Just to try out the functional thinking and scala habituation
 
-[x] marks document already read
-
 ## Stanford CS-143 slides
 * [Compilers](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/lectures/00/Slides00.pdf) [x]
 * [Lexical Analysis](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/lectures/01/Slides01.pdf) [x]

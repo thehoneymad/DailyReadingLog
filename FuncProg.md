@@ -11,3 +11,5 @@ Goals:
 * [Decomposition](https://www.coursera.org/learn/progfun1/lecture/8ZaPo/lecture-4-5-decomposition) [x]
 * [Pattern Matching](https://www.coursera.org/learn/progfun1/lecture/cdHAM/lecture-4-6-pattern-matching) [x]
 * [Lists](https://www.coursera.org/learn/progfun1/lecture/TFjsY/lecture-4-7-lists) [x]
+
+* Redid the Huffman Encoding -> [](https://github.com/thehoneymad/coursera/tree/master/Functional%20Programming%20In%20Scala/Excercises/Week4/patmat)

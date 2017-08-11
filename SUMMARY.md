@@ -2,6 +2,7 @@
 
 * [Questions - Random nerd snipes](Questions.md)
 * [Blog Ideas](BlogIdeas.md)
+* [Goals](Goals.md)
 
 
 * [8 August, 2017 - Compiler Design Refresher](CompilerDesign.md)

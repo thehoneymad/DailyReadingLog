@@ -19,6 +19,8 @@ Goals:
 * [Other Collections](https://www.coursera.org/learn/progfun1/lecture/d0fdt/lecture-6-1-other-collections) [x]
 * [Combinatorial Search](https://www.coursera.org/learn/progfun1/lecture/JIPKx/lecture-6-2-combinatorial-search-and-for-expressions) [x]
 * [Combinatorial Search Example](https://www.coursera.org/learn/progfun1/lecture/H3cKk/lecture-6-3-combinatorial-search-example) [x]
+* [Maps](https://www.coursera.org/learn/progfun1/lecture/weqsE/lecture-6-4-maps)
 
+* Might need some time to understand foldLeft and foldRight deeply
 
 * Redid the Huffman Encoding -> [](https://github.com/thehoneymad/coursera/tree/master/Functional%20Programming%20In%20Scala/Excercises/Week4/patmat)

@@ -11,5 +11,12 @@ Goals:
 * [Decomposition](https://www.coursera.org/learn/progfun1/lecture/8ZaPo/lecture-4-5-decomposition) [x]
 * [Pattern Matching](https://www.coursera.org/learn/progfun1/lecture/cdHAM/lecture-4-6-pattern-matching) [x]
 * [Lists](https://www.coursera.org/learn/progfun1/lecture/TFjsY/lecture-4-7-lists) [x]
+* [More Functions on List](https://www.coursera.org/learn/progfun1/lecture/XYlER/lecture-5-1-more-functions-on-lists) [x]
+* [Pairs and Tuples](https://www.coursera.org/learn/progfun1/lecture/0uFfe/lecture-5-2-pairs-and-tuples) [x]
+* [Implicit Parameters](https://www.coursera.org/learn/progfun1/lecture/82wi4/lecture-5-3-implicit-parameters) [x]
+* [Higher-Order List Functions](https://www.coursera.org/learn/progfun1/lecture/UWSpZ/lecture-5-4-higher-order-list-functions) [x]
+* [Reduction of Lists](https://www.coursera.org/learn/progfun1/lecture/UpWlj/lecture-5-5-reduction-of-lists) [x]
+* [Other Collections](https://www.coursera.org/learn/progfun1/lecture/d0fdt/lecture-6-1-other-collections) [-]
+
 
 * Redid the Huffman Encoding -> [](https://github.com/thehoneymad/coursera/tree/master/Functional%20Programming%20In%20Scala/Excercises/Week4/patmat)

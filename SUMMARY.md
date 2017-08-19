@@ -12,3 +12,4 @@
 * [15 August, 2017 - Functional Programming Refresher Continued](FuncProg.md)
 * [16 August, 2017 - Functional Programming Refresher Continued](FuncProg.md)
 * [16 August, 2017 - C# 7.0 Features](CSharpSevenFeatures.md)
+* [19 August, 2017 - Asp.net core random posts](Aspnetcore.md)

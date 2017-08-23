@@ -6,9 +6,9 @@
 
 
 * [Compiler Design Refresher](CompilerDesign.md)
-* [C# Coroutines](CSharpCoroutines.md)
+* [C#](CSharp.md)
 * [Functional Programming Refresher](FuncProg.md)
 * [Concurrency And Parallelism](Concurrency.md)
-* [C# 7.0 Features](CSharpSevenFeatures.md)
+* [C# Features](CSharpFeatures.md)
 * [Asp.net core random posts](Aspnetcore.md)
 * [Threading Nerd Snipes](CSharpThreading.md)

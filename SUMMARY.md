@@ -10,5 +10,6 @@
 * [Functional Programming Refresher](FuncProg.md)
 * [Concurrency And Parallelism](Concurrency.md)
 * [C# Features](CSharpFeatures.md)
+* [Golang fiddles](golang.md)
 * [Asp.net core random posts](Aspnetcore.md)
 * [Threading Nerd Snipes](CSharpThreading.md)

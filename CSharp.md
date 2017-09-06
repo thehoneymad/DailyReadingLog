@@ -13,3 +13,6 @@ Might want to read the whole series, 20 blogs on generated code from the async a
 * [You're using HttpClient wrong](https://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/)
 * [Http Connection limits](http://odetocode.com/blogs/scott/archive/2004/06/08/http-connection-limits.aspx)
 * [Beware of the .net HttpClient](http://www.nimaara.com/2016/11/01/beware-of-the-net-httpclient/)
+
+## MEF
+* [Microsoft Extensibility Framework](https://docs.microsoft.com/en-us/dotnet/framework/mef/index)

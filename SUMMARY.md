@@ -14,3 +14,4 @@
 * [Asp.net core random posts](Aspnetcore.md)
 * [Threading Nerd Snipes](CSharpThreading.md)
 * [C# DateTime Gotchas](DateTime.md)
+* [Random Linux Reads](Linux.md)

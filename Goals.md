@@ -23,3 +23,4 @@
 ## What I need to stop doing
 * Unplanned visits and distractions.
 * Overthinking.
+* Procrastinatng.

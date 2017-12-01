@@ -15,3 +15,4 @@
 * [Random Linux Reads](Linux.md)
 * [Encoding](Encoding.md)
 * [Markov model](Markov.md)
+* [Random walk](RandomWalk.md)

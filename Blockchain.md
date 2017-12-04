@@ -1,0 +1,18 @@
+# Blockchains and Bitcoins (minimum reading)
+1. [Introduction to Bitcoin](https://www.youtube.com/watch?v=l1si5ZWLgy0)
+2. [How to buy Bitcoin](https://blockchainhub.net/how-to-buy-bitcoin/)
+3. [Blockchain Hub](https://blockchainhub.net)
+4. [Minimum Viable Blockchain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
+5. [Bitcoin Whitepaper - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
+6. [Andreas M. Antonopoulos: "Consensus Algorithms, Blockchain Technology and Bitcoin" [UCL]](https://www.youtube.com/watch?time_continue=10&v=sE7998qfjgk)
+
+# Distributed Sytem Primers (For understanding basics of consensus)
+1. [Edx-Distributed Algorithms - Part 1 (KTH)](https://1drv.ms/f/s!AlF-FwHcgUGjjPQYp-RRB8aMz5Z1CQ)
+
+# More Information
+1. [Bitcoin Reading List](https://github.com/jashmenn/bitcoin-reading-list)
+2. [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/)
+3. [Bitcoin and Cryptocurrency Technologies - Coursera](https://www.coursera.org/learn/cryptocurrency#)
+4. [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+5. [What's Blockchain - Blockchain at Berkeley](https://drive.google.com/file/d/0ByBe1QJVC-EJS25EeVA4T1E3N28/view)
+6. [Resources - Blockchain at berkeley](https://blockchain.berkeley.edu/resources/)

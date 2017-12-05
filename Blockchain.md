@@ -16,3 +16,5 @@
 4. [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 5. [What's Blockchain - Blockchain at Berkeley](https://drive.google.com/file/d/0ByBe1QJVC-EJS25EeVA4T1E3N28/view)
 6. [Resources - Blockchain at berkeley](https://blockchain.berkeley.edu/resources/)
+7. [How does a bitcoin work - an app](https://medium.freecodecamp.org/how-does-blockchain-really-work-i-built-an-app-to-show-you-6b70cd4caf7d)
+8. [Freecodecamp blockchain tag](https://medium.freecodecamp.org/tagged/blockchain)

@@ -3,3 +3,4 @@
 * What does Red Black trees do and where they are practically used, this can be something fun to know and use -> https://www.quora.com/What-are-some-real-world-applications-of-Red-Black-trees-today
 * What is a particle filter and how can I use it? :)
 * What is blittable types? 
+* http://c-faq.com/decl/spiral.anderson.html

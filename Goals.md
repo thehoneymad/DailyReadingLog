@@ -24,3 +24,11 @@
 * Unplanned visits and distractions.
 * Overthinking.
 * Procrastinatng.
+
+## Routine
+* **Monday** : Java
+* **Tuesday** : Java
+* **Wednesday** : C# / Project work
+* **Thursday** : Blockchain
+* **Friday** : Nothing
+* **Weekends** : Coursera, any course, project work

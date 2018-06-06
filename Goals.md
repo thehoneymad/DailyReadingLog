@@ -27,7 +27,7 @@
 
 ## Routine
 * **Monday** : Java
-* **Tuesday** : Java
+* **Tuesday** : Blockchain
 * **Wednesday** : C# / Project work
 * **Thursday** : Blockchain
 * **Friday** : Nothing

@@ -18,3 +18,13 @@
 6. [Resources - Blockchain at berkeley](https://blockchain.berkeley.edu/resources/)
 7. [How does a bitcoin work - an app](https://medium.freecodecamp.org/how-does-blockchain-really-work-i-built-an-app-to-show-you-6b70cd4caf7d)
 8. [Freecodecamp blockchain tag](https://medium.freecodecamp.org/tagged/blockchain)
+
+# NEO
+1. [Neo Smart Contracts Tutorial](https://medium.com/coinmonks/neo-smart-contracts-tutorial-helloworld-13ecc19b31fe)
+2. [Awesome NEO](https://github.com/CityOfZion/awesome-neo)
+3. [Neo Persistable Classes](https://www.youtube.com/watch?v=Nj4-m2o94VEe)
+4. [Neo Blockchain C# Developer Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
+5. [Neo Blockchain Quick Start Guide for Developers](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/EN-us/00-prerequisites.md)
+6. [Neo C# Contracts Developer Guide](https://github.com/mwherman2000/neo-csguide)
+7. [Creating a NEO Private Network on Azure](https://medium.com/@gubanotorious/creating-a-neo-blockchain-hosted-private-network-on-microsoft-azure-in-under-30-minutes-4d38c6bf6f3c)
+

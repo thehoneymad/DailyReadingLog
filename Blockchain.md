@@ -28,3 +28,8 @@
 6. [Neo C# Contracts Developer Guide](https://github.com/mwherman2000/neo-csguide)
 7. [Creating a NEO Private Network on Azure](https://medium.com/@gubanotorious/creating-a-neo-blockchain-hosted-private-network-on-microsoft-azure-in-under-30-minutes-4d38c6bf6f3c)
 
+# Tokens vs Currency
+1. [Tokens vs Cryptocurrencies](https://medium.com/@stream_space/tokens-vs-cryptocurrencies-a22046202dc0)
+2. [ERC-20 tokens](https://www.coindesk.com/ethereums-erc-20-tokens-rage-anyway/)
+3. [Launch your production ready cryptocurrency](https://hackernoon.com/how-to-launch-your-own-production-ready-cryptocurrency-ab97cb773371)
+

@@ -26,10 +26,12 @@
 4. [Neo Blockchain C# Developer Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 5. [Neo Blockchain Quick Start Guide for Developers](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/EN-us/00-prerequisites.md)
 6. [Neo C# Contracts Developer Guide](https://github.com/mwherman2000/neo-csguide)
-7. [Creating a NEO Private Network on Azure](https://medium.com/@gubanotorious/creating-a-neo-blockchain-hosted-private-network-on-microsoft-azure-in-under-30-minutes-4d38c6bf6f3c)
+7. [Creating a NEO Private Network on Azure](https://medium.com/@gubanotorious/creating-a-neo-blockchain-hosted-private-network-on-microsoft-azure-in-under-30-minutes-4d38c6bf6f3c) [x]
+8. [Clarification on NEO GAS and Consensus Nodes](https://medium.com/@MalcolmLerider/clarification-on-neo-gas-and-consensus-nodes-aa94d4f4b09) [x]
+9. [Proof Of Stake outperforms Proof Of Work](https://hackernoon.com/is-bft-consensus-effective-for-proof-of-stake-blockchain-implementations-dc01f429d225) [x]
 
 # Tokens vs Currency
-1. [Tokens vs Cryptocurrencies](https://medium.com/@stream_space/tokens-vs-cryptocurrencies-a22046202dc0)
+1. [Tokens vs Cryptocurrencies](https://medium.com/@stream_space/tokens-vs-cryptocurrencies-a22046202dc0) [x]
 2. [ERC-20 tokens](https://www.coindesk.com/ethereums-erc-20-tokens-rage-anyway/)
 3. [Launch your production ready cryptocurrency](https://hackernoon.com/how-to-launch-your-own-production-ready-cryptocurrency-ab97cb773371)
 

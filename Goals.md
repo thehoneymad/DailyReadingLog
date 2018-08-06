@@ -32,3 +32,7 @@
 * **Thursday** : Blockchain
 * **Friday** : Nothing
 * **Weekends** : Coursera, any course, project work
+
+## Monthly Goal - August 2018
+* Finish at least 4 chapters of Java Precisely
+* Finish 1 chapter of C# in depth

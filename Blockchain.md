@@ -30,6 +30,9 @@
 8. [Clarification on NEO GAS and Consensus Nodes](https://medium.com/@MalcolmLerider/clarification-on-neo-gas-and-consensus-nodes-aa94d4f4b09) [x]
 9. [Proof Of Stake outperforms Proof Of Work](https://hackernoon.com/is-bft-consensus-effective-for-proof-of-stake-blockchain-implementations-dc01f429d225) [x]
 10. [A deep dive into NeoVM & NeoContract](https://medium.com/neo-smart-economy/a-deep-dive-into-neovm-neocontract-e470c2c3afb0)
+11. [Neo Smart Contracts Invocation Triggers](https://medium.com/coinmonks/neo-smart-contracts-invocation-triggers-490f945902e1)
+12. [Neo CLI RPC api doc](https://github.com/neo-project/docs/blob/master/en-us/node/cli/2.7.4/api.md?utf8=%E2%9C%93)
+13. [Neo Enhancement Proposals](https://github.com/neo-project/proposals)
 
 # Tokens vs Currency
 1. [Tokens vs Cryptocurrencies](https://medium.com/@stream_space/tokens-vs-cryptocurrencies-a22046202dc0) [x]

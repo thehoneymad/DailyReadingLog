@@ -20,7 +20,7 @@
 8. [Freecodecamp blockchain tag](https://medium.freecodecamp.org/tagged/blockchain)
 
 # NEO
-1. [Neo Smart Contracts Tutorial](https://medium.com/coinmonks/neo-smart-contracts-tutorial-helloworld-13ecc19b31fe)
+1. [Neo Smart Contracts Tutorial](https://medium.com/coinmonks/neo-smart-contracts-tutorial-helloworld-13ecc19b31fe)[x]
 2. [Awesome NEO](https://github.com/CityOfZion/awesome-neo)
 3. [Neo Persistable Classes](https://www.youtube.com/watch?v=Nj4-m2o94VEe)
 4. [Neo Blockchain C# Developer Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
@@ -29,6 +29,7 @@
 7. [Creating a NEO Private Network on Azure](https://medium.com/@gubanotorious/creating-a-neo-blockchain-hosted-private-network-on-microsoft-azure-in-under-30-minutes-4d38c6bf6f3c) [x]
 8. [Clarification on NEO GAS and Consensus Nodes](https://medium.com/@MalcolmLerider/clarification-on-neo-gas-and-consensus-nodes-aa94d4f4b09) [x]
 9. [Proof Of Stake outperforms Proof Of Work](https://hackernoon.com/is-bft-consensus-effective-for-proof-of-stake-blockchain-implementations-dc01f429d225) [x]
+10. [A deep dive into NeoVM & NeoContract](https://medium.com/neo-smart-economy/a-deep-dive-into-neovm-neocontract-e470c2c3afb0)
 
 # Tokens vs Currency
 1. [Tokens vs Cryptocurrencies](https://medium.com/@stream_space/tokens-vs-cryptocurrencies-a22046202dc0) [x]

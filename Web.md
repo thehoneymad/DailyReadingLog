@@ -1,0 +1,1 @@
+- https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/?fbclid=IwAR1Ocdf61vP2SztWj_HCqxCnQcT5GS7nIrfNYmNHIj5NFr_WNABKWH_IwX4
